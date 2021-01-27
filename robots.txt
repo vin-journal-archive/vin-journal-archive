@@ -1,6 +1,6 @@
 Host: vin-journal-archive.github.io
 User-agent: *
-# Disallow: /
+Disallow: /
 Allow: /index.html
 Allow: /about.html
 Allow: /avtors.html
